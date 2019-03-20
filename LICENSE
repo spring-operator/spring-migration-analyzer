@@ -194,19 +194,19 @@ associated with each component.
 
 SECTION 1: BSD-STYLE, MIT-STYLE, OR SIMILAR STYLE LICENSES
 
->>>   ASM 3.3.1 - http://asm.ow2.org/license.html
->>>   Freemarker 2.3.19 - http://freemarker.sourceforge.net/docs/app_license.html
+>>>   ASM 3.3.1 - https://asm.ow2.org/license.html
+>>>   Freemarker 2.3.19 - https://freemarker.apache.org/docs/app_license.html
 (BSD style)
->>>   SLF4J 1.7.2 - http://www.slf4j.org/license.html (MIT)
+>>>   SLF4J 1.7.2 - https://www.slf4j.org/license.html (MIT)
 
 SECTION 2: APACHE LICENSE 2.0
 
->>>   Apache Commons CLI 1.2 - http://commons.apache.org/cli/license.html (ASL v2)
+>>>   Apache Commons CLI 1.2 - https://commons.apache.org/cli/license.html (ASL v2)
 >>>   Spring 3.2.1 - ASL v2
 
 SECTION 3:  ECLIPSE PUBLIC LICENSE 1.0
 
->>>   Logback 1.0.9 - http://logback.qos.ch/license.html (EPL 1.0 or LGPL 2.1)
+>>>   Logback 1.0.9 - https://logback.qos.ch/license.html (EPL 1.0 or LGPL 2.1)
 
 
 APPENDIX. Standard License Files
@@ -328,7 +328,7 @@ Apache Commons CLI
 Copyright 2001-2009 The Apache Software Foundation
 
 This product includes software developed by
-The Apache Software Foundation (http://www.apache.org/).
+The Apache Software Foundation (https://www.apache.org/).
 
 >>>   Spring 3.2.1
 

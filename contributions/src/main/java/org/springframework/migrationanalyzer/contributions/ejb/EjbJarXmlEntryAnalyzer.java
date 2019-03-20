@@ -359,7 +359,7 @@ final class EjbJarXmlEntryAnalyzer implements EntryAnalyzer<Ejb> {
 
     private static final class EjbJarEntityResolver implements EntityResolver {
 
-        private static final String SYSTEM_ID_EJB_JAR_2_0_DTD = "http://java.sun.com/dtd/ejb-jar_2_0.dtd";
+        private static final String SYSTEM_ID_EJB_JAR_2_0_DTD = "https://java.sun.com/dtd/ejb-jar_2_0.dtd";
 
         @Override
         public InputSource resolveEntity(String publicId, String systemId) throws SAXException, IOException {
