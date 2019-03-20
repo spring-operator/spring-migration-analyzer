@@ -154,7 +154,7 @@
 									<entry>-e, --exclude</entry>
 									<entry>A path within the input that should be excluded from the
 										analysis. Supports <ulink type="http"
-										url="http://ant.apache.org/manual/dirtasks.html#patterns">Ant-style
+										url="https://ant.apache.org/manual/dirtasks.html#patterns">Ant-style
 										path patterns</ulink>. This option can be specified mutiple
 										times.
 									</entry>
@@ -571,32 +571,32 @@
 			<section id="resources-downloads">
 				<title>Downloads</title>
 				<para>
-					<ulink type="http" url="http://www.springsource.org/download/community?project=Spring%20Migration%20Analyzer"/>
+					<ulink type="http" url="https://www.springsource.org/download/community?project=Spring%20Migration%20Analyzer"/>
 				</para>
 				<para>
 					The latest release of Spring Migration Analyzer, and all previous releases, are available for
-					<ulink type="http" url="http://www.springsource.org/download/community?project=Spring%20Migration%20Analyzer">download</ulink>.
+					<ulink type="http" url="https://www.springsource.org/download/community?project=Spring%20Migration%20Analyzer">download</ulink>.
 				</para>
 			</section>
 			<section id="resources-source-code">
 				<title>Source code</title>
 				<para>
-					<ulink type="http" url="http://github.com/SpringSource/spring-migration-analyzer"/>
+					<ulink type="http" url="https://github.com/SpringSource/spring-migration-analyzer"/>
 				</para>
 				<para>
 					Spring Migration Analyzer's source code is available on
-					<ulink type="http" url="http://github.com/SpringSource/spring-migration-analyzer">GitHub</ulink>
+					<ulink type="http" url="https://github.com/SpringSource/spring-migration-analyzer">GitHub</ulink>
 				</para>
 			</section>
 			<section id="resources-issue-tracking">
 				<title>Issue tracking</title>
 				<para>
-					<ulink type="http" url="http://jira.springsource.org/browse/SMA"/>
+					<ulink type="http" url="https://jira.springsource.org/browse/SMA"/>
 				</para>
 				<para>
 					If you've found a bug in Spring Migration Analyzer, or you have a suggestion
 					for a new feature or enhancement,
-					<ulink type="http" url="http://jira.springsource.org/browse/SMA">please let us
+					<ulink type="http" url="https://jira.springsource.org/browse/SMA">please let us
 					know</ulink>. If you're reporting a bug, please include detailed steps of how
 					to reproduce the problem. If you're suggesting a new feature or enhancement,
 					please include a detailed description of what you'd like to be added.
